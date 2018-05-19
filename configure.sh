@@ -6,7 +6,7 @@ then
 	exit 1
 fi
 
-script=autowifi.sh
+script=autoWifi.sh
 path=/usr/local/bin/
 
 cp ${script} ${path}${script}
